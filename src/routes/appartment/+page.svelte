@@ -132,7 +132,7 @@
 
 <div class="container text-center">
 	<h1>
-		Are you paying to much? The model predicts that you should be paying {price}
+		Are you paying to much? Our super model predicts that you should be paying {price}
 	</h1>
 
 	<div class="row justify-content-md-center">
